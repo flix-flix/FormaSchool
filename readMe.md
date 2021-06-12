@@ -1,17 +1,28 @@
 # FormaSchool
 
-## Authors
+## Authors:
 
 - BURIE Félix
 - FAHAM Bouchaib
 - NOVELLI Luca
 - VENNIN Jason
 
-## Description
+## Description:
 
 Collaborative platform for training courses
 
-## Installation
+## Technologies et outils utilisés:
+
+- Angular
+- Spring
+- Java
+- HTML
+- CSS
+- Git
+- Docker
+- Maven
+
+## Installation:
 
 ```
 git init
