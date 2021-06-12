@@ -1,5 +1,4 @@
 # FormaSchool
-Example text {align=center}
 
 ## Authors:
 
