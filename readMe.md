@@ -1,5 +1,5 @@
 # FormaSchool
-## # Example text {align=center}
+Example text {align=center}
 
 ## Authors:
 
