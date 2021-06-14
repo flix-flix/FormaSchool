@@ -1,6 +1,6 @@
-[submodule "FormaSchool-back"]
-	path = FormaSchool-back
-	url = https://github.com/flix-flix/FormaSchool-back.git
+[submodule "FormaSchool-Back"]
+	path = FormaSchool-Back
+	url = https://github.com/flix-flix/FormaSchool-Back.git
 [submodule "FormaSchool-Front"]
 	path = FormaSchool-Front
 	url = https://github.com/flix-flix/FormaSchool-Front.git
