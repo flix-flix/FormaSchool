@@ -28,6 +28,7 @@ Collaborative platform for training courses
 git init
 git remote add origin https://github.com/flix-flix/FormaSchool.git
 git pull origin main
+git submodule update --init --recursive
 
 docker compose up -d
 ```
